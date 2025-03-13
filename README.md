@@ -87,10 +87,10 @@
   <a target="_blank" href="https://opencv.org/" style="display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="Computer Vision" width="42" height="42" />
   </a>
-  <!-- NLP -->
+<!--   <!-- NLP -->
   <a target="_blank" href="https://en.wikipedia.org/wiki/Natural_language_processing" style="display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/PyTorch_logo_icon.svg" alt="NLP" width="42" height="42" />
-  </a>
+  </a> -->
 </p>
 
 <h2>📫 How to reach me</h2>
