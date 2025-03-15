@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ibrahim</h1>
+<h1>Hi 👋, I'm Ibrahim W. Elgmmal</h1>
 <p>A passionate Data Scientist from Egypt</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
